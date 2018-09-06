@@ -1,1 +1,1 @@
-# lhcb_baryon_asymmetry
+# LHCb_baryon_asymmetry
